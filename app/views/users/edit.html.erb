@@ -1,21 +1,24 @@
-<main>
-  <p id="notice"></p>
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12 col-md-8 col-lg-5 px-5 px-sm-0 mx-auto">
-        <h2>User info</h2>
-        <%= form_with model:@user, local: true do |f| %>
-          <h4>Name</h4>
-          <%= f.text_field :name %>
-          <h4>Image</h4>
-          <%= f.text_field :category %>
-          <h4>Introduction</h4>
-          <%= f.text_area :body %>
-          <%= f.submit 'Update User' %>
+<p id="notice"></p>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12 col-md-8 col-lg-5 px-5 px-sm-0 mx-auto">
+      <h2>User info</h2>
+      <% if @user.errors.any? %>
+      <%= @user.errors.count %>errors prohibited this book from being saved:
+      <ul>
+      <% @user.errors.full_messages.each do |message| %>
+      <li><%= message %></li>
+      <% end %></ul>
+      <% end %>
+      <%= form_with model:@user, local: true do |f| %>
+        <label>Name</label><br />
+        <%= f.text_field :name %><br />
+        <label>Image</label><br />
+        <%= f.attachment_field :profile_image %><br />
+        <label>Introduction</label><br />
+        <%= f.text_area :body %><br />
+        <%= f.submit 'Update User' %>
         <% end %>
       </div>
     </div>
   </div>
-</main>
-
-
