@@ -287,7 +287,7 @@ Failures:
      [31mFailure/Error: let(:user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User:0x0000000004b3d540>[0m
+     [31m  undefined method `introduction=' for #<User:0x000000000612abf0>[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -307,7 +307,7 @@ Failures:
      [31mFailure/Error: let(:user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User:0x00000000073cd460>[0m
+     [31m  undefined method `introduction=' for #<User:0x0000000008a117f8>[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -327,7 +327,7 @@ Failures:
      [31mFailure/Error: let(:user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User:0x00000000073d99b8>[0m
+     [31m  undefined method `introduction=' for #<User:0x0000000008a1d9e0>[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -347,7 +347,7 @@ Failures:
      [31mFailure/Error: let(:user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User:0x00000000073e5790>[0m
+     [31m  undefined method `introduction=' for #<User:0x0000000008a29bc8>[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -367,7 +367,7 @@ Failures:
      [31mFailure/Error: let!(:other_user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User:0x00000000074472d8>[0m
+     [31m  undefined method `introduction=' for #<User:0x0000000008a7f230>[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -386,7 +386,7 @@ Failures:
      [31mFailure/Error: let!(:other_user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User:0x0000000007473a90>[0m
+     [31m  undefined method `introduction=' for #<User:0x0000000008aa6f38>[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -405,7 +405,7 @@ Failures:
      [31mFailure/Error: let!(:other_user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User:0x0000000007498048>[0m
+     [31m  undefined method `introduction=' for #<User:0x0000000008ad7188>[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -424,7 +424,7 @@ Failures:
      [31mFailure/Error: let!(:other_user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User:0x00000000074cfb38>[0m
+     [31m  undefined method `introduction=' for #<User:0x0000000008b06e10>[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -443,7 +443,7 @@ Failures:
      [31mFailure/Error: let!(:other_user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User:0x00000000074f4050>[0m
+     [31m  undefined method `introduction=' for #<User:0x0000000008b36c50>[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -462,7 +462,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000752fc40>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000008b627d8>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -481,7 +481,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000755fa80>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000008b92078>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -500,7 +500,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000758f848>[0m
+      [31m  undefined method `introduction=' for #<User:0x0000000008bc2390>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -556,7 +556,7 @@ Failures:
       [31mFailure/Error: let(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000006a20430>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000a7e8c18>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -576,7 +576,7 @@ Failures:
       [31mFailure/Error: let(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000085a3068>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000afb84c0>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -596,7 +596,7 @@ Failures:
       [31mFailure/Error: let(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000891ad40>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b026470>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -616,7 +616,7 @@ Failures:
       [31mFailure/Error: let(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000947ba18>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b084728>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -636,7 +636,7 @@ Failures:
       [31mFailure/Error: let(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000088a2110>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b0fe9d8>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -656,7 +656,7 @@ Failures:
       [31mFailure/Error: let(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000008908320>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b150468>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -676,7 +676,7 @@ Failures:
       [31mFailure/Error: let(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009768618>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b1bd108>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -696,7 +696,7 @@ Failures:
       [31mFailure/Error: let(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000008f8e988>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b22f820>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -716,7 +716,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000008fc63d8>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b2580e0>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -735,7 +735,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000008fe04b8>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b28fe78>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -754,7 +754,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009002270>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b2bfc40>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -773,7 +773,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009010cf8>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b2ea3a0>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -792,7 +792,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000006ccabe0>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b319d30>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -811,7 +811,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009097d48>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b349850>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -830,7 +830,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000090b96c8>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b3751d0>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -849,7 +849,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000090d1d68>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b3a4458>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -868,7 +868,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000090f39e0>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b3db958>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -887,7 +887,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000090fc310>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b40b838>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -906,7 +906,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000910e768>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b43b560>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -925,7 +925,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009118e20>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b467480>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -944,7 +944,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000091294f0>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b4971f8>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -963,7 +963,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000913bda8>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b4c6de0>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -982,7 +982,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009146a28>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b4f6608>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1001,7 +1001,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000918bbf0>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b521718>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1020,7 +1020,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009195970>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b551490>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1039,7 +1039,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000091a4970>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b587978>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1058,7 +1058,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000091b7610>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b5b7808>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1077,7 +1077,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000091c0878>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b5e77d8>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1096,7 +1096,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009210a08>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b616ee8>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1115,7 +1115,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000092231a8>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b642ca0>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1134,7 +1134,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000922dae0>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b672c20>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1153,7 +1153,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000927f750>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b6a27e0>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1172,7 +1172,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000928fb78>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b6d1720>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1191,7 +1191,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000929a820>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b6fcec0>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1210,7 +1210,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000092a4460>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b72cda0>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1229,7 +1229,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000092fd448>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b75cc58>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1248,7 +1248,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000931f980>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b788b78>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1267,7 +1267,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000932a290>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b7b8af8>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1286,7 +1286,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000936b178>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b7e8320>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1305,7 +1305,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009993d48>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b81f7d0>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1324,7 +1324,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000999df28>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b84dea0>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1343,7 +1343,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000099b0998>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b87c818>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1362,7 +1362,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x00000000099ee338>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b8b3a98>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1381,7 +1381,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009a35be8>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b8e3658>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1400,7 +1400,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009a4b600>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b911508>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1419,7 +1419,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009a549d0>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b941140>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1438,7 +1438,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009abe128>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b96d1f0>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1457,7 +1457,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009b2dac8>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b99d120>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1476,7 +1476,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009b9ebd8>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b9cc948>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1495,7 +1495,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009bd8a40>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000b9fc940>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1514,7 +1514,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009c37130>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000ba28630>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1533,7 +1533,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009c7bce0>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000ba63780>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1552,7 +1552,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009c9f140>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000ba92cd8>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1571,7 +1571,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009cbac88>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000babe770>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1590,7 +1590,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009d296b0>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000baecd78>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1609,7 +1609,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009d4e208>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000bb1c8e8>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1628,7 +1628,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009d825f8>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000bb53d20>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1647,7 +1647,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009d8d0c0>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000bb83b60>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1666,7 +1666,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009dabea8>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000bbb2280>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1685,7 +1685,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009f4ae58>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000bbde0b0>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1704,7 +1704,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009f76ad0>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000bc0e1c0>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1723,7 +1723,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009fa6348>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000bc3de98>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1742,7 +1742,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x0000000009fd6390>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000bc6d698>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1761,7 +1761,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000a005be0>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000bc994a0>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1780,7 +1780,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000a035a48>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000bcc89a8>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1799,7 +1799,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000a0616e8>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000bcf89f0>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1818,7 +1818,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000a097a68>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000bd2eb18>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1837,7 +1837,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000a0c70d8>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000bd5e278>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1856,7 +1856,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000a0f6838>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000bd8a170>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1875,7 +1875,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000a126240>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000bdb9ee8>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1894,7 +1894,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000a156030>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000bde9c60>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1913,7 +1913,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000a181000>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000be18790>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1932,7 +1932,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000a1b0468>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000be44200>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1951,7 +1951,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000a1e7f30>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000be7fa80>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1970,7 +1970,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000a217578>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000beabbd0>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1989,7 +1989,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000a246990>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000bedba60>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2008,7 +2008,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000a276a28>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000bf0b260>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2027,7 +2027,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000a2a6200>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000bf3a8d0>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2046,7 +2046,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000a2d5a78>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000bf66750>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2065,7 +2065,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000a300098>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000bf94e70>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2084,7 +2084,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000a33b4e0>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000bfc4da0>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2103,7 +2103,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000a367068>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000bff4550>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2122,7 +2122,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000a396b10>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000c020420>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2141,7 +2141,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000a3c66a8>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000c05bf98>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2160,7 +2160,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User:0x000000000a3f50c0>[0m
+      [31m  undefined method `introduction=' for #<User:0x000000000c0872d8>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2179,7 +2179,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a420fb8>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c0b7050>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2198,7 +2198,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a450ec0>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c0e6dc8>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2217,7 +2217,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a485800>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c11bd98>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2236,7 +2236,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a4b5820>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c14b688>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2255,7 +2255,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a4e55c0>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c1773f0>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2274,7 +2274,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a511558>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000adcf028>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2293,7 +2293,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a540bc8>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c1e23f8>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2312,7 +2312,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a577ee8>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c211e78>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2331,7 +2331,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a5a6c20>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c247f50>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2350,7 +2350,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a5d5e58>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c27be18>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2369,7 +2369,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a605a18>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c2a70b8>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2388,7 +2388,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a630c18>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c2d5bc0>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2407,7 +2407,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a660800>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c3018b0>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2426,7 +2426,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a690460>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c331650>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2445,7 +2445,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a6c6f10>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c3604c8>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2464,7 +2464,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a6f68a0>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c3900b0>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2483,7 +2483,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a7265a0>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c3c7d80>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2502,7 +2502,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a7521c8>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c3f3bd8>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2521,7 +2521,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a7811f8>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c426b78>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2540,7 +2540,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a7b11c8>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c452a70>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2559,7 +2559,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a7e0950>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c482888>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2578,7 +2578,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a817158>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c4ad650>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2597,7 +2597,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a8470d8>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c4dd580>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2616,7 +2616,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a872f58>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c50d4d8>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2635,7 +2635,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a8a2e10>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c539768>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2654,7 +2654,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a8d2ca0>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c569030>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2673,7 +2673,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a8fed00>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c5988a8>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2692,7 +2692,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a92cb10>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c5ceef8>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2711,7 +2711,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a95c928>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c5fe540>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2730,7 +2730,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a98c718>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c62dde0>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2749,7 +2749,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a9c7e80>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c65d180>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2768,7 +2768,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000a9f3e18>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c689050>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2787,7 +2787,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000aa23bb8>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c6b8f30>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2806,7 +2806,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000aa531d8>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c6e8ac8>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2825,7 +2825,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000aa7e3b0>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c71f8c0>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2844,7 +2844,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000aaaded0>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c74f520>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2863,7 +2863,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000aaddbd0>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c77f0e0>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2882,7 +2882,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000ab0db00>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c7ae818>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2901,7 +2901,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000ab43bd8>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c7d93d8>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2920,7 +2920,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000ab72820>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c80fb40>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2939,7 +2939,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000ab9e420>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c83f9a8>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2958,7 +2958,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000abcda90>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c86f6d0>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2977,7 +2977,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000abfd768>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c89f1a0>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2996,7 +2996,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000ac2d170>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c8ce5b8>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3015,7 +3015,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000ac678e8>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c8f8de0>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3034,7 +3034,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000ac933f8>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c928888>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3053,7 +3053,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000acc2f90>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c958768>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3072,7 +3072,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000aceed48>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c98ff60>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3091,7 +3091,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000ad1d5d0>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c9c2528>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3110,7 +3110,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000ad53ef0>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000c9ec9b8>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3129,7 +3129,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000ad83d58>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000ca1c848>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3148,7 +3148,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000adafbb0>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000ca53be0>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3167,7 +3167,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000addfab8>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000ca83b10>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3186,7 +3186,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000ae0e778>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000caae338>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3205,7 +3205,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000ae3d3c0>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000cadd638>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3224,7 +3224,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000ae77ea8>[0m
+       [31m  undefined method `introduction=' for #<User:0x000000000cb0c3e8>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3243,7 +3243,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000aea3c88>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000005b176c8>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3262,7 +3262,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000aed3780>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000008775738>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3281,7 +3281,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000aeff8d0>[0m
+       [31m  undefined method `introduction=' for #<User:0x00000000087ba5e0>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3300,7 +3300,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000af2e608>[0m
+       [31m  undefined method `introduction=' for #<User:0x00000000088db910>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3319,7 +3319,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000af5e308>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000008964058>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3338,7 +3338,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000af8a020>[0m
+       [31m  undefined method `introduction=' for #<User:0x00000000089f0c60>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3357,7 +3357,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000afb9ca8>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000008a2bab8>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3376,7 +3376,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000afe8760>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000008a87368>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3395,7 +3395,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000b018208>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000008b04ef8>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3414,7 +3414,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000b04fd48>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000008b92f50>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3433,7 +3433,7 @@ Failures:
        [31mFailure/Error: let!(:other_user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User:0x000000000b07bb00>[0m
+       [31m  undefined method `introduction=' for #<User:0x0000000008c2b390>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3448,7 +3448,7 @@ Failures:
        [36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/factory_bot-6.2.0/lib/factory_bot/strategy_syntax_method_registrar.rb:28:in `block in define_singular_strategy_method'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:5:in `block (2 levels) in <main>'[0m
 
-Finished in 2.76 seconds (files took 1.49 seconds to load)
+Finished in 3.07 seconds (files took 1.46 seconds to load)
 [31m197 examples, 166 failures[0m
 
 Failed examples:
